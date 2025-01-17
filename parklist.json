@@ -2,7 +2,7 @@
   "parks": [
     {
       "city": "Valencia",
-      "mapId": "SFMM001",
+      "mapId": "f1a16e58-473a-46d8-9d0c-dcf3e5a9fa9e",
       "parkDistance": "10 km",
       "parkId": "SFMM",
       "parkLocation": {
@@ -11,11 +11,11 @@
       },
       "parkName": "Six Flags Magic Mountain",
       "state": "California",
-      "parkImage": "http://example.com/sfmm.jpg"
+      "parkImage": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
     },
     {
       "city": "Jackson",
-      "mapId": "SFGA002",
+      "mapId": "dc377529-49c2-4a38-ae56-8e19787e8dfd",
       "parkDistance": "20 km",
       "parkId": "SFGA",
       "parkLocation": {
@@ -24,11 +24,11 @@
       },
       "parkName": "Six Flags Great Adventure",
       "state": "New Jersey",
-      "parkImage": "http://example.com/sfga.jpg"
+      "parkImage": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
     },
     {
       "city": "Arlington",
-      "mapId": "SFTX003",
+      "mapId": "2c4347c9-4b0c-4246-92b7-f9c3aea65175",
       "parkDistance": "15 km",
       "parkId": "SFTX",
       "parkLocation": {
@@ -37,11 +37,11 @@
       },
       "parkName": "Six Flags Over Texas",
       "state": "Texas",
-      "parkImage": "http://example.com/sftx.jpg"
+      "parkImage": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
     },
     {
       "city": "Austell",
-      "mapId": "SFGA004",
+      "mapId": "ab9acde7-5531-4bd4-9682-5abfa5ee082d",
       "parkDistance": "12 km",
       "parkId": "SFGA",
       "parkLocation": {
@@ -50,11 +50,11 @@
       },
       "parkName": "Six Flags Over Georgia",
       "state": "Georgia",
-      "parkImage": "http://example.com/sfga2.jpg"
+      "parkImage": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
     },
     {
       "city": "Sandusky",
-      "mapId": "CP001",
+      "mapId": "7dcb8c9c-68ee-4eb4-ad33-59d31522354c",
       "parkDistance": "8 km",
       "parkId": "CP",
       "parkLocation": {
@@ -63,11 +63,11 @@
       },
       "parkName": "Cedar Point",
       "state": "Ohio",
-      "parkImage": "http://example.com/cp.jpg"
+      "parkImage": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
     },
     {
       "city": "Santa Clara",
-      "mapId": "CG002",
+      "mapId": "a6755e57-8bc8-4bd6-a6bc-7c35db353443",
       "parkDistance": "18 km",
       "parkId": "CG",
       "parkLocation": {
@@ -76,11 +76,11 @@
       },
       "parkName": "California's Great America",
       "state": "California",
-      "parkImage": "http://example.com/cg.jpg"
+      "parkImage": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
     },
     {
       "city": "Doswell",
-      "mapId": "KD003",
+      "mapId": "820c7e54-4257-447b-a1fc-bb61e11b84d3",
       "parkDistance": "22 km",
       "parkId": "KD",
       "parkLocation": {
@@ -89,11 +89,11 @@
       },
       "parkName": "Kings Dominion",
       "state": "Virginia",
-      "parkImage": "http://example.com/kd.jpg"
+      "parkImage": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
     },
     {
       "city": "Charlotte",
-      "mapId": "CW004",
+      "mapId": "c89b333d-8a73-45a8-82fe-6780e7abefb0",
       "parkDistance": "14 km",
       "parkId": "CW",
       "parkLocation": {
@@ -102,11 +102,11 @@
       },
       "parkName": "Carowinds",
       "state": "North Carolina",
-      "parkImage": "http://example.com/cw.jpg"
+      "parkImage": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
     },
     {
       "city": "Mason",
-      "mapId": "KI005",
+      "mapId": "a60daa80-99bd-4522-981f-0c0753ef6603",
       "parkDistance": "10 km",
       "parkId": "KI",
       "parkLocation": {
@@ -114,8 +114,7 @@
         "longitude": -84.2686
       },
       "parkName": "Kings Island",
-      "state": "Ohio",
-      "parkImage": "http://example.com/ki.jpg"
+      "state": "Ohiohttps://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
     }
   ]
 }
