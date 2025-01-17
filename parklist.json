@@ -11,7 +11,7 @@
       },
       "parkName": "Six Flags Magic Mountain",
       "state": "California",
-      "parkImage": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
+      "parkImageUrl": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
     },
     {
       "city": "Jackson",
@@ -24,7 +24,7 @@
       },
       "parkName": "Six Flags Great Adventure",
       "state": "New Jersey",
-      "parkImage": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
+      "parkImageUrl": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
     },
     {
       "city": "Arlington",
@@ -37,7 +37,7 @@
       },
       "parkName": "Six Flags Over Texas",
       "state": "Texas",
-      "parkImage": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
+      "parkImageUrl": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
     },
     {
       "city": "Austell",
@@ -50,7 +50,7 @@
       },
       "parkName": "Six Flags Over Georgia",
       "state": "Georgia",
-      "parkImage": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
+      "parkImageUrl": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
     },
     {
       "city": "Sandusky",
@@ -63,7 +63,7 @@
       },
       "parkName": "Cedar Point",
       "state": "Ohio",
-      "parkImage": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
+      "parkImageUrl": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
     },
     {
       "city": "Santa Clara",
@@ -76,7 +76,7 @@
       },
       "parkName": "California's Great America",
       "state": "California",
-      "parkImage": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
+      "parkImageUrl": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
     },
     {
       "city": "Doswell",
@@ -89,7 +89,7 @@
       },
       "parkName": "Kings Dominion",
       "state": "Virginia",
-      "parkImage": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
+      "parkImageUrl": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
     },
     {
       "city": "Charlotte",
@@ -102,7 +102,7 @@
       },
       "parkName": "Carowinds",
       "state": "North Carolina",
-      "parkImage": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
+      "parkImageUrl": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
     },
     {
       "city": "Mason",
@@ -114,7 +114,8 @@
         "longitude": -84.2686
       },
       "parkName": "Kings Island",
-      "state": "Ohiohttps://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
+      "state": "Ohiohttps://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44",
+      "parkImageUrl": "https://unsplash.com/photos/people-riding-carnival-ride-under-clear-blue-sky-during-daytime-MgRgzB58D44"
     }
   ]
 }
