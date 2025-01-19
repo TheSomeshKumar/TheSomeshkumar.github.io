@@ -11,7 +11,8 @@
       },
       "parkName": "Six Flags Magic Mountain",
       "state": "California",
-      "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg"
+      "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+      "parkType": "Theme Park"
     },
     {
       "city": "Jackson",
@@ -24,7 +25,8 @@
       },
       "parkName": "Six Flags Great Adventure",
       "state": "New Jersey",
-      "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg"
+      "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+      "parkType": "Safari"
     },
     {
       "city": "Arlington",
@@ -37,7 +39,8 @@
       },
       "parkName": "Six Flags Over Texas",
       "state": "Texas",
-      "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg"
+      "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+      "parkType": "Theme Park"
     },
     {
       "city": "Austell",
@@ -50,7 +53,8 @@
       },
       "parkName": "Six Flags Over Georgia",
       "state": "Georgia",
-      "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg"
+      "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+      "parkType": "Theme Park"
     },
     {
       "city": "Sandusky",
@@ -63,7 +67,8 @@
       },
       "parkName": "Cedar Point",
       "state": "Ohio",
-      "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg"
+      "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+      "parkType": "Water Park"
     },
     {
       "city": "Santa Clara",
@@ -76,7 +81,8 @@
       },
       "parkName": "California's Great America",
       "state": "California",
-      "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg"
+      "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+      "parkType": "Theme Park"
     },
     {
       "city": "Doswell",
@@ -89,7 +95,8 @@
       },
       "parkName": "Kings Dominion",
       "state": "Virginia",
-      "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg"
+      "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+      "parkType": "Theme Park"
     },
     {
       "city": "Charlotte",
@@ -102,7 +109,8 @@
       },
       "parkName": "Carowinds",
       "state": "North Carolina",
-      "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg"
+      "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+      "parkType": "Safari"
     },
     {
       "city": "Mason",
@@ -115,7 +123,8 @@
       },
       "parkName": "Kings Island",
       "state": "Ohio",
-      "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg"
+      "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+      "parkType": "Theme Park"
     }
   ]
 }
