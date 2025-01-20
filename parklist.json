@@ -2,7 +2,7 @@
   "parks": [
     {
       "city": "Valencia",
-      "mapId": "f1a16e58-473a-46d8-9d0c-dcf3e5a9fa9e",
+      "mapId": "-473a-46d8-9d0c-dcf3e5a9fa9e",
       "parkDistance": "10 km",
       "parkId": "SFMM",
       "parkLocation": {
@@ -16,7 +16,7 @@
     },
     {
       "city": "Jackson",
-      "mapId": "dc377529-49c2-4a38-ae56-8e19787e8dfd",
+      "mapId": "-49c2-4a38-ae56-8e19787e8dfd",
       "parkDistance": "20 km",
       "parkId": "SFGA",
       "parkLocation": {
@@ -30,7 +30,7 @@
     },
     {
       "city": "Arlington",
-      "mapId": "2c4347c9-4b0c-4246-92b7-f9c3aea65175",
+      "mapId": "-4b0c-4246-92b7-f9c3aea65175",
       "parkDistance": "15 km",
       "parkId": "SFTX",
       "parkLocation": {
@@ -44,7 +44,7 @@
     },
     {
       "city": "Austell",
-      "mapId": "ab9acde7-5531-4bd4-9682-5abfa5ee082d",
+      "mapId": "-5531-4bd4-9682-5abfa5ee082d",
       "parkDistance": "12 km",
       "parkId": "SFOG",
       "parkLocation": {
@@ -58,7 +58,7 @@
     },
     {
       "city": "Sandusky",
-      "mapId": "7dcb8c9c-68ee-4eb4-ad33-59d31522354c",
+      "mapId": "-68ee-4eb4-ad33-59d31522354c",
       "parkDistance": "8 km",
       "parkId": "CP",
       "parkLocation": {
@@ -72,7 +72,7 @@
     },
     {
       "city": "Santa Clara",
-      "mapId": "a6755e57-8bc8-4bd6-a6bc-7c35db353443",
+      "mapId": "-8bc8-4bd6-a6bc-7c35db353443",
       "parkDistance": "18 km",
       "parkId": "CG",
       "parkLocation": {
@@ -86,7 +86,7 @@
     },
     {
       "city": "Doswell",
-      "mapId": "820c7e54-4257-447b-a1fc-bb61e11b84d3",
+      "mapId": "-4257-447b-a1fc-bb61e11b84d3",
       "parkDistance": "22 km",
       "parkId": "KD",
       "parkLocation": {
@@ -100,7 +100,7 @@
     },
     {
       "city": "Charlotte",
-      "mapId": "c89b333d-8a73-45a8-82fe-6780e7abefb0",
+      "mapId": "-8a73-45a8-82fe-6780e7abefb0",
       "parkDistance": "14 km",
       "parkId": "CW",
       "parkLocation": {
@@ -114,7 +114,7 @@
     },
     {
       "city": "Mason",
-      "mapId": "a60daa80-99bd-4522-981f-0c0753ef6603",
+      "mapId": "-99bd-4522-981f-0c0753ef6603",
       "parkDistance": "10 km",
       "parkId": "KI",
       "parkLocation": {
