@@ -1,0 +1,527 @@
+[
+  {
+    "parkId": "530",
+    "city": "Charlotte",
+    "mapId": "c89b333d-8a73-45a8-82fe-6780e7abefb0",
+    "parkDistance": "N/A",
+    "parkCode": "CA",
+    "parkLocation": {
+      "latitude": 35.100617,
+      "longitude": -80.940798
+    },
+    "parkName": "Carowinds",
+    "state": "North Carolina",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "501",
+    "city": "Sandusky",
+    "mapId": "7dcb8c9c-68ee-4eb4-ad33-59d31522354c",
+    "parkDistance": "N/A",
+    "parkCode": "CP",
+    "parkLocation": {
+      "latitude": 41.48066,
+      "longitude": -82.68099
+    },
+    "parkName": "Cedar Point",
+    "state": "Ohio",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Safari"
+  },
+  {
+    "parkId": "540",
+    "city": "Maple",
+    "mapId": "78ea5343-e0c3-4891-9802-cc6dd63e5c21",
+    "parkDistance": "N/A",
+    "parkCode": "CW",
+    "parkLocation": {
+      "latitude": 43.84055,
+      "longitude": -79.54024
+    },
+    "parkName": "Canada’s Wonderland",
+    "state": "Ontario",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "508",
+    "city": "Allentown",
+    "mapId": "2099f2e9-5a4c-46f1-932b-23a3fed2c0c3",
+    "parkDistance": "N/A",
+    "parkCode": "DP",
+    "parkLocation": {
+      "latitude": 40.578677,
+      "longitude": -75.531401
+    },
+    "parkName": "Dorney Park",
+    "state": "Pennsylvania",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "535",
+    "city": "Santa Clara",
+    "mapId": "a6755e57-8bc8-4bd6-a6bc-7c35db353443",
+    "parkDistance": "N/A",
+    "parkCode": "GA",
+    "parkLocation": {
+      "latitude": 37.39405,
+      "longitude": -121.97286
+    },
+    "parkName": "Great America",
+    "state": "California",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Water Park"
+  },
+  {
+    "parkId": "527",
+    "city": "Galveston Island",
+    "mapId": "b90649f3-928f-4f1b-8e50-ae68dce3ed2f",
+    "parkDistance": "N/A",
+    "parkCode": "GV",
+    "parkLocation": {
+      "latitude": 29.27142,
+      "longitude": -94.852288
+    },
+    "parkName": "Galveston",
+    "state": "Texas",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "504",
+    "city": "Buena Park",
+    "mapId": "b737b44b-d2d7-4a2c-aeb5-66c76339fa86",
+    "parkDistance": "N/A",
+    "parkCode": "KB",
+    "parkLocation": {
+      "latitude": 33.845228,
+      "longitude": -117.998584
+    },
+    "parkName": "Knott’s Berry Farm",
+    "state": "California",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "525",
+    "city": "Doswell",
+    "mapId": "820c7e54-4257-447b-a1fc-bb61e11b84d3",
+    "parkDistance": "N/A",
+    "parkCode": "KD",
+    "parkLocation": {
+      "latitude": 37.838564,
+      "longitude": -77.44182
+    },
+    "parkName": "Kings Dominion",
+    "state": "Virginia",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "520",
+    "city": "Mason",
+    "mapId": "a60daa80-99bd-4522-981f-0c0753ef6603",
+    "parkDistance": "N/A",
+    "parkCode": "KI",
+    "parkLocation": {
+      "latitude": 39.344277,
+      "longitude": -84.265244
+    },
+    "parkName": "Kings Island",
+    "state": "Ohio",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "512",
+    "city": "Muskegon",
+    "mapId": "d1e767c2-a811-40de-8766-5d0e229111b3",
+    "parkDistance": "N/A",
+    "parkCode": "MA",
+    "parkLocation": {
+      "latitude": 43.344748,
+      "longitude": -86.280298
+    },
+    "parkName": "Michigan’s Adventure",
+    "state": "Michigan",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "526",
+    "city": "New Braunfels",
+    "mapId": "56addcc5-db6a-4055-88e8-4e9614488dc8",
+    "parkDistance": "N/A",
+    "parkCode": "NB",
+    "parkLocation": {
+      "latitude": 29.703481,
+      "longitude": -98.11868
+    },
+    "parkName": "New Braunfels",
+    "state": "Texas",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "514",
+    "city": "Shakopee",
+    "mapId": "d73dacb7-7a42-4c78-a7c8-c295951e445a",
+    "parkDistance": "N/A",
+    "parkCode": "VF",
+    "parkLocation": {
+      "latitude": 44.79876,
+      "longitude": -93.45467
+    },
+    "parkName": "Valley Fair",
+    "state": "Minnesota",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "506",
+    "city": "Kansas City",
+    "mapId": "a11a4fc2-619c-41a5-a74e-202645248105",
+    "parkDistance": "N/A",
+    "parkCode": "WF",
+    "parkLocation": {
+      "latitude": 39.17328,
+      "longitude": -94.48525
+    },
+    "parkName": "Worlds of Fun",
+    "state": "Missouri",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "1",
+    "city": "Jackson Township",
+    "mapId": "dc377529-49c2-4a38-ae56-8e19787e8dfd",
+    "parkDistance": "N/A",
+    "parkCode": "GADV",
+    "parkLocation": {
+      "latitude": 40.147105,
+      "longitude": -74.440128
+    },
+    "parkName": "SF Great Adventure",
+    "state": "New Jersey",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "1",
+    "city": "Arlington",
+    "mapId": "2c4347c9-4b0c-4246-92b7-f9c3aea65175",
+    "parkDistance": "N/A",
+    "parkCode": "SFOT",
+    "parkLocation": {
+      "latitude": 32.757528,
+      "longitude": -97.067021
+    },
+    "parkName": "Six Flags Over Texas",
+    "state": "Texas",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Water Park"
+  },
+  {
+    "parkId": "1",
+    "city": "Vallejo",
+    "mapId": "12440090-c19c-447e-af00-3e0fd1546fa8",
+    "parkDistance": "N/A",
+    "parkCode": "SFDK",
+    "parkLocation": {
+      "latitude": 38.13774,
+      "longitude": -122.23122
+    },
+    "parkName": "Six Flags Discovery Kingdom",
+    "state": "California",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "1",
+    "city": "Glendale",
+    "mapId": "e4379dc6-21ef-4ae4-bf97-e7124c06edcb",
+    "parkDistance": "N/A",
+    "parkCode": "SFHHPX",
+    "parkLocation": {
+      "latitude": 33.695625,
+      "longitude": -112.148661
+    },
+    "parkName": "Hurricane Harbor Phoenix",
+    "state": "Arizona",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Water Park"
+  },
+  {
+    "parkId": "1",
+    "city": "Oklahoma City",
+    "mapId": "8c2d37c6-1cf2-4082-8a11-3b3108d12722",
+    "parkDistance": "N/A",
+    "parkCode": "SFFC",
+    "parkLocation": {
+      "latitude": 35.58499,
+      "longitude": -97.44071
+    },
+    "parkName": "Six Flags Frontier City",
+    "state": "Oklahoma",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Safari"
+  },
+  {
+    "parkId": "1",
+    "city": "Oklahoma City",
+    "mapId": "2dd7439f-cfc2-4327-a9ff-1302d437d5c5",
+    "parkDistance": "N/A",
+    "parkCode": "HHOKC",
+    "parkLocation": {
+      "latitude": 35.461215,
+      "longitude": -97.589557
+    },
+    "parkName": "Hurricane Harbor OKC",
+    "state": "Oklahoma",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Water Park"
+  },
+  {
+    "parkId": "1",
+    "city": "San Antonio",
+    "mapId": "c7aae5a3-4f4c-4787-8812-d350d3b3a358",
+    "parkDistance": "N/A",
+    "parkCode": "SFFT",
+    "parkLocation": {
+      "latitude": 29.599107,
+      "longitude": -98.612006
+    },
+    "parkName": "Six Flags Fiesta Texas",
+    "state": "Texas",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "1",
+    "city": "Eureka",
+    "mapId": "5bd832e4-7ccb-4532-b7d1-38f12b6e16f8",
+    "parkDistance": "N/A",
+    "parkCode": "SFSL",
+    "parkLocation": {
+      "latitude": 38.514137,
+      "longitude": -90.673248
+    },
+    "parkName": "Six Flags St. Louis",
+    "state": "Missouri",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "1",
+    "city": "Valencia",
+    "mapId": "f1a16e58-473a-46d8-9d0c-dcf3e5a9fa9e",
+    "parkDistance": "N/A",
+    "parkCode": "SFMM",
+    "parkLocation": {
+      "latitude": 34.423508,
+      "longitude": -118.597207
+    },
+    "parkName": "Six Flags Magic Mountain",
+    "state": "California",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "1",
+    "city": "Concord",
+    "mapId": "87779c30-84d3-483a-846f-7c63a87c172c",
+    "parkDistance": "N/A",
+    "parkCode": "HHCO",
+    "parkLocation": {
+      "latitude": 37.97371,
+      "longitude": -122.051326
+    },
+    "parkName": "Hurricane Harbor Concord",
+    "state": "California",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Water Park"
+  },
+  {
+    "parkId": "1",
+    "city": "Spring",
+    "mapId": "78740402-3e4e-4f08-872d-8fa8fc83b020",
+    "parkDistance": "N/A",
+    "parkCode": "HHST",
+    "parkLocation": {
+      "latitude": 30.06966,
+      "longitude": -95.43342
+    },
+    "parkName": "Hurricane Harbor Splashtown",
+    "state": "Texas",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Water Park"
+  },
+  {
+    "parkId": "1",
+    "city": "Austell",
+    "mapId": "ab9acde7-5531-4bd4-9682-5abfa5ee082d",
+    "parkDistance": "N/A",
+    "parkCode": "SFOG",
+    "parkLocation": {
+      "latitude": 33.76412,
+      "longitude": -84.55315
+    },
+    "parkName": "Six Flags Over Georgia",
+    "state": "Georgia",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "1",
+    "city": "Marietta",
+    "mapId": "07c96f68-c057-4cc2-b58d-ad294082b579",
+    "parkDistance": "N/A",
+    "parkCode": "SFWW",
+    "parkLocation": {
+      "latitude": 33.95823,
+      "longitude": -84.521172
+    },
+    "parkName": "Six Flags White Water",
+    "state": "Georgia",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Water Park"
+  },
+  {
+    "parkId": "1",
+    "city": "Agawam",
+    "mapId": "0ce58ade-c057-4944-93fa-a94139050733",
+    "parkDistance": "N/A",
+    "parkCode": "SFNE",
+    "parkLocation": {
+      "latitude": 42.041056,
+      "longitude": -72.61471
+    },
+    "parkName": "Six Flags New England",
+    "state": "Massachusetts",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "1",
+    "city": "Corfu",
+    "mapId": "68a21931-0195-42d2-8b6e-a9aa1843b244",
+    "parkDistance": "N/A",
+    "parkCode": "SFDL",
+    "parkLocation": {
+      "latitude": 42.928105,
+      "longitude": -78.383145
+    },
+    "parkName": "Six Flags Darien Lake",
+    "state": "New York",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Safari"
+  },
+  {
+    "parkId": "530",
+    "city": "Gurnee",
+    "mapId": "f657400f-2f2a-4d19-bed8-a1590264e663",
+    "parkDistance": "N/A",
+    "parkCode": "CA",
+    "parkLocation": {
+      "latitude": 42.368271,
+      "longitude": -87.932826
+    },
+    "parkName": "Six Flags Great America",
+    "state": "Illinois",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "1",
+    "city": "Bowie",
+    "mapId": "1a1f4ed7-5581-468c-9225-51fcb60569ca",
+    "parkDistance": "N/A",
+    "parkCode": "SFAM",
+    "parkLocation": {
+      "latitude": 38.904935,
+      "longitude": -76.773682
+    },
+    "parkName": "Six Flags America",
+    "state": "Maryland",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "1",
+    "city": "Cherry Valley",
+    "mapId": "9e8b4686-0d17-40d3-a8fd-bf3b769dca35",
+    "parkDistance": "N/A",
+    "parkCode": "HHRO",
+    "parkLocation": {
+      "latitude": 42.24537,
+      "longitude": -88.963289
+    },
+    "parkName": "Hurricane Harbor Rockford",
+    "state": "Illinois",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Water Park"
+  },
+  {
+    "parkId": "1",
+    "city": "Queensbury",
+    "mapId": "45191e5b-3ff3-4b6a-8578-c21a732229e2",
+    "parkDistance": "N/A",
+    "parkCode": "SFGE",
+    "parkLocation": {
+      "latitude": 43.350319,
+      "longitude": -73.686127
+    },
+    "parkName": "Six Flags Great Escape",
+    "state": "New York",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Water Park"
+  },
+  {
+    "parkId": "1",
+    "city": "Ciudad de México",
+    "mapId": "66f5d187-ab89-4c32-8867-ec632c253aa9",
+    "parkDistance": "N/A",
+    "parkCode": "SFMX",
+    "parkLocation": {
+      "latitude": 19.294036,
+      "longitude": -99.20965
+    },
+    "parkName": "Six Flags Mexico",
+    "state": "México",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  },
+  {
+    "parkId": "1",
+    "city": "Oaxtepec",
+    "mapId": "b608cb93-532e-45b6-9d82-684d2fd7beb4",
+    "parkDistance": "N/A",
+    "parkCode": "SFOX",
+    "parkLocation": {
+      "latitude": 18.897669,
+      "longitude": -98.976599
+    },
+    "parkName": "Hurricane Harbor Oaxtepec",
+    "state": "México",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Water Park"
+  },
+  {
+    "parkId": "1",
+    "city": "Montréal",
+    "mapId": "a8c36ea0-f003-4f16-8059-d27440c76a9d",
+    "parkDistance": "N/A",
+    "parkCode": "SFLR",
+    "parkLocation": {
+      "latitude": 45.523055,
+      "longitude": -73.537291
+    },
+    "parkName": "Six Flags La Ronde",
+    "state": "Quebec",
+    "parkImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luna_Park_Melbourne_scenic_railway.jpg/520px-Luna_Park_Melbourne_scenic_railway.jpg",
+    "parkType": "Theme Park"
+  }
+]
