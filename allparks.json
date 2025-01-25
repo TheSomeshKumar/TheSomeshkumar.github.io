@@ -1,11 +1,11 @@
 {
   "parks": [
   {
-    "parkId": "530",
+    "parkId": "100",
     "city": "Charlotte",
     "mapId": "c89b333d-8a73-45a8-82fe-6780e7abefb0",
     "parkDistance": "N/A",
-    "parkCode": "CA",
+    "parkCode": "Carowinds",
     "parkLocation": {
       "latitude": 35.100617,
       "longitude": -80.940798
