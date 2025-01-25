@@ -196,11 +196,11 @@
     "parkType": "Theme Park"
   },
   {
-    "parkId": "1",
+    "parkId": "530",
     "city": "Jackson Township",
     "mapId": "dc377529-49c2-4a38-ae56-8e19787e8dfd",
     "parkDistance": "N/A",
-    "parkCode": "GADV",
+    "parkCode": "ca",
     "parkLocation": {
       "latitude": 40.147105,
       "longitude": -74.440128
@@ -421,11 +421,11 @@
     "parkType": "Safari"
   },
   {
-    "parkId": "530",
+    "parkId": "1",
     "city": "Gurnee",
     "mapId": "f657400f-2f2a-4d19-bed8-a1590264e663",
     "parkDistance": "N/A",
-    "parkCode": "CA",
+    "parkCode": "SFGA",
     "parkLocation": {
       "latitude": 42.368271,
       "longitude": -87.932826
