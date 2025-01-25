@@ -1,4 +1,5 @@
-[
+{
+  "parks": [
   {
     "parkId": "530",
     "city": "Charlotte",
@@ -525,3 +526,4 @@
     "parkType": "Theme Park"
   }
 ]
+}
