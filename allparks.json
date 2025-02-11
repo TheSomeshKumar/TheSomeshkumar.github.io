@@ -1,11 +1,11 @@
 {
   "parks": [
   {
-    "parkId": "100",
+    "parkId": "30",
     "city": "Charlotte",
     "mapId": "c89b333d-8a73-45a8-82fe-6780e7abefb0",
     "parkDistance": "N/A",
-    "parkCode": "Carowinds",
+    "parkCode": "CA",
     "parkLocation": {
       "latitude": 35.100617,
       "longitude": -80.940798
@@ -200,7 +200,7 @@
     "city": "Jackson Township",
     "mapId": "dc377529-49c2-4a38-ae56-8e19787e8dfd",
     "parkDistance": "N/A",
-    "parkCode": "ca",
+    "parkCode": "sfga",
     "parkLocation": {
       "latitude": 40.147105,
       "longitude": -74.440128
