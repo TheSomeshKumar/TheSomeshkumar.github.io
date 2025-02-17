@@ -1,7 +1,7 @@
 {
   "parks": [
   {
-    "parkId": "30",
+    "parkId": "530",
     "city": "Charlotte",
     "mapId": "c89b333d-8a73-45a8-82fe-6780e7abefb0",
     "parkDistance": "N/A",
@@ -196,7 +196,7 @@
     "parkType": "Theme Park"
   },
   {
-    "parkId": "530",
+    "parkId": "100",
     "city": "Jackson Township",
     "mapId": "dc377529-49c2-4a38-ae56-8e19787e8dfd",
     "parkDistance": "N/A",
